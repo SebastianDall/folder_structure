@@ -38,7 +38,7 @@ Also, there is an vscode-plugin, that can do this directly in markdown in vscode
 
 ```
 
-### output with
+### output with explainations
 
 ```
 .

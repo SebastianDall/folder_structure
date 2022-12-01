@@ -43,7 +43,7 @@ Also, there is an vscode-plugin, that can do this directly in markdown in vscode
 ```
 .
 └── project_name/                # project name such as microflora_danica
-    ├── README.md                # readme briefly explaining contents of main responsible
+    ├── README.md                # readme briefly explaining contents of main project and who is responsible
     ├── data/                    # main data folder
     │   ├── README.md            # explaination of data, dataprocessing, and guidelines for file naming and minimal metadata requirements
     │   ├── metadata/            # metadata
